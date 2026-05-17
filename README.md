@@ -88,3 +88,45 @@ python calculator.py
 - Using loops to create buttons
 - Handling user input
 
+
+# Age Calculator
+
+This is a simple Age Calculator made using Python and Tkinter.
+
+The program calculates a person's age using:
+- Date of birth
+- Current date
+
+The user enters the required dates in the GUI and the program calculates the age.
+
+## Features
+
+- GUI made using Tkinter
+- Age calculation
+- Reset option
+- Menu bar options
+- Leap year handling
+
+## Technologies Used
+
+- Python
+- Tkinter
+
+## How to Run
+
+Run the Python file:
+
+
+python age_calculator.py
+
+
+## What I Learned
+
+- Tkinter GUI basics
+- Labels, buttons, and entry boxes
+- Menu creation in Tkinter
+- Functions in Python
+- Conditional statements
+- Taking user input
+- Basic date calculations
+
